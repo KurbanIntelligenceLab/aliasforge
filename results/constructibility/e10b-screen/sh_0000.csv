@@ -1,0 +1,6 @@
+name,n_in,n_out,ratio,dyadic,integral,gate_ok,gs_bound_min,gs_windows,gs_bound_sublattice,lll_maxabs,lll_span,lll_verdict,search64_maxabs,search64_verdict,elapsed_s
+qwen2.5-vl-448,896,448,2.0000,1,1,1,0.707107,54,0.75,3,6,certified,3,certified,46.9
+internvl-448-thumb,896,448,2.0000,1,1,1,0.707107,54,0.75,3,6,certified,3,certified,46.9
+clip-224-4x,896,224,4.0000,1,1,1,1.25087,54,25.2939,5,10,certified,148,dagger,24.7
+blip2-224-3x,672,224,3.0000,0,1,1,4.17342,40,2.56541e+10,13,23,certified,,-,114.9
+minicpm-448-2.5x,1120,448,2.5000,0,0,1,17534.1,68,2.1755e+15,52621,,-,,-,251.3

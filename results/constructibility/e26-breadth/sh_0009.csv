@@ -1,0 +1,2 @@
+processor,processor_class,image_processor_class,resample,policy,n_in,n_out,ratio,dyadic,gs_bound,trial,arm,certified,fields_differ,n_fields,pix_diff,error
+microsoft/Phi-3.5-vision-instruct,Phi3VProcessor,Phi3VImageProcessor,-1,backend=unknown;mode=tiles+thumb;fixed:672+thumb336x5,1344,672,2.0,1,,0,exact_kernel,0,,,,resample -1 (None) has no exact fixed-point kernel here

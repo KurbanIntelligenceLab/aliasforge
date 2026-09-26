@@ -1,0 +1,6 @@
+name,n_in,n_out,ratio,dyadic,integral,gate_ok,gs_bound_min,gs_windows,gs_bound_sublattice,lll_maxabs,lll_span,lll_verdict,search64_maxabs,search64_verdict,elapsed_s
+llava-1.5-336,672,336,2.0000,1,1,1,0.707107,40,0.75,3,6,certified,3,certified,37.3
+phi3v-336-2x,672,336,2.0000,1,1,1,0.707107,40,0.75,3,6,certified,3,certified,37.3
+siglip-384-3x,1152,384,3.0000,0,1,1,4.17342,70,2.56541e+10,13,23,certified,,-,95.7
+pixtral-512-2x,1024,512,2.0000,1,1,1,0.707107,62,0.75,3,6,certified,3,certified,34.4
+cambrian-576-2x,1152,576,2.0000,1,1,1,0.707107,70,0.75,3,6,certified,3,certified,31.3

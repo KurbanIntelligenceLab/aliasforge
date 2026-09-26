@@ -1,0 +1,2 @@
+processor,processor_class,image_processor_class,resample,policy,n_in,n_out,ratio,dyadic,gs_bound,trial,arm,certified,fields_differ,n_fields,pix_diff,error
+allenai/Molmo-7B-D-0924,,default,,,,,,,,,exact_kernel,0,,,,"no processor could be loaded: AutoProcessor: ModuleNotFoundError: No module named 'einops' | AutoImageProcessor: ImportError: This modeling file requires the following packages that were not found in your environment: einops, tensorflow. Run `pip install einops tensorflow`"

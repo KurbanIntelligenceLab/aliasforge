@@ -1,0 +1,4 @@
+score,n,acted,dominated,dominated_upper,tied,rate,rate_upper
+verifier confidence,40,40,0,31,31,0.0,0.775
+IAS,40,40,0,31,31,0.0,0.775
+random score,40,24,0,17,17,0.0,0.425

@@ -1,0 +1,17 @@
+# id->screen-row: google/siglip-base-patch16-384=siglip-384-2x; google/siglip-so400m-patch14-384=siglip-384-3x; google/paligemma-3b-pt-224=paligemma-224-2x; HuggingFaceTB/SmolVLM-Instruct=smolvlm-384-2x; HuggingFaceM4/idefics2-8b=idefics2-378-1.5x; Salesforce/blip2-opt-2.7b=blip2-224-3x; adept/fuyu-8b=fuyu-300-1.5x; openbmb/MiniCPM-V-2_6=minicpm-448-2.5x; microsoft/Phi-3.5-vision-instruct=phi3v-336-2x; mistral-community/pixtral-12b=pixtral-512-2x; allenai/Molmo-7B-D-0924=molmo-336-6x; openai/clip-vit-large-patch14-336=clip-224-2x,clip-224-4x; Qwen/Qwen2-VL-7B-Instruct=qwen2.5-vl-448,qwen2.5-vl-224; llava-hf/llava-v1.6-mistral-7b-hf=llava-1.5-336-4x; OpenGVLab/InternVL2-8B=internvl-448-tile,internvl-448-thumb; llava-hf/llava-1.5-7b-hf=llava-1.5-336 (anchor). This single comment line is skipped by both wrappers (a task whose $ITEM starts with # writes a skipped row and exits 0).
+google/siglip-base-patch16-384
+google/siglip-so400m-patch14-384
+google/paligemma-3b-pt-224
+HuggingFaceTB/SmolVLM-Instruct
+HuggingFaceM4/idefics2-8b
+Salesforce/blip2-opt-2.7b
+adept/fuyu-8b
+openbmb/MiniCPM-V-2_6
+microsoft/Phi-3.5-vision-instruct
+mistral-community/pixtral-12b
+allenai/Molmo-7B-D-0924
+openai/clip-vit-large-patch14-336
+Qwen/Qwen2-VL-7B-Instruct
+llava-hf/llava-v1.6-mistral-7b-hf
+OpenGVLab/InternVL2-8B
+llava-hf/llava-1.5-7b-hf

@@ -1,0 +1,8 @@
+name,n_in,n_out,ratio,dyadic,integral,gate_ok,gs_bound_min,gs_windows,gs_bound_sublattice,lll_maxabs,lll_span,lll_verdict,search64_maxabs,search64_verdict,elapsed_s
+qwen2.5-vl-224,448,224,2.0000,1,1,1,0.707107,26,0.75,3,6,certified,3,certified,39.4
+clip-224-2x,448,224,2.0000,1,1,1,0.707107,26,0.75,3,6,certified,3,certified,39.4
+paligemma-224-2x,448,224,2.0000,1,1,1,0.707107,26,0.75,3,6,certified,3,certified,39.4
+siglip-384-2x,768,384,2.0000,1,1,1,0.707107,46,0.75,3,6,certified,3,certified,15.1
+smolvlm-384-2x,768,384,2.0000,1,1,1,0.707107,46,0.75,3,6,certified,3,certified,15.1
+fuyu-300-1.5x,450,300,1.5000,0,0,1,1.62421e+12,27,1.64768e+12,6710691358631,,-,,-,6.9
+molmo-336-6x,2016,336,6.0000,0,1,1,0.589804,124,5.19548e+08,2,4,certified,,-,138.3

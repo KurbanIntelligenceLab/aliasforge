@@ -1,0 +1,4 @@
+name,n_in,n_out,ratio,dyadic,integral,gate_ok,gs_bound_min,gs_windows,gs_bound_sublattice,lll_maxabs,lll_span,lll_verdict,search64_maxabs,search64_verdict,elapsed_s
+llava-1.5-336-4x,1344,336,4.0000,1,1,1,1.25087,82,25.2939,5,10,certified,148,dagger,50.4
+internvl-448-tile,1344,448,3.0000,0,1,1,4.17342,82,2.56541e+10,13,23,certified,,-,122.2
+idefics2-378-1.5x,567,378,1.5000,0,0,1,1.62421e+12,34,1.64768e+12,6710691358631,,-,,-,26.8

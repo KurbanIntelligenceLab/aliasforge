@@ -1,0 +1,4 @@
+action,mean,lo95,hi95,n_items,n_records,n_boot,seed,version
+att,0.0003,-0.0092,0.0094,1280,1018,2000,0,e1_action_ci/1
+rea,0.0059,-0.0020,0.0138,1280,1018,2000,0,e1_action_ci/1
+enc,-0.0209,-0.0353,-0.0072,1280,1018,2000,0,e1_action_ci/1

@@ -1,0 +1,7 @@
+route,score,split,n,regret,order_acc
+B,IAS,dev,624,0.0879,0.3462
+B,IAS,test,656,0.0893,0.3841
+B,verifier confidence,dev,624,0.0928,0.3141
+B,verifier confidence,test,656,0.0876,0.3704
+B,always-stop,dev,624,0.1092,0.2676
+B,always-stop,test,656,0.1009,0.2744

@@ -1,0 +1,4 @@
+dominated,n,order_acc,policy,rate,regret
+,1280,0.3695,distance (median-threshold rule),,0.0837
+,1280,0.257,learned router (gbt),,0.1072
+0,80,,"learned router, certified pairs",0.0,

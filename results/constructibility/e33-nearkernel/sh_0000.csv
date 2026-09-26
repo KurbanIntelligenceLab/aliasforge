@@ -1,0 +1,13 @@
+ratio,base,mechanism,n_bases,trials,clipped,collide,rate
+1.5x,flat,outside exact kernel,1,300,0,26,0.0867
+1.5x,flat,exact kernel,1,0,0,0,0.0
+1.5x,noise,outside exact kernel,8,300,25,0,0.0
+1.5x,noise,exact kernel,8,0,0,0,0.0
+1.5x,natural,outside exact kernel,40,300,1473,20,0.0667
+1.5x,natural,exact kernel,40,0,0,0,0.0
+2.0x,flat,outside exact kernel,1,300,0,180,0.6
+2.0x,flat,exact kernel,1,300,0,300,1.0
+2.0x,noise,outside exact kernel,8,300,26,7,0.0233
+2.0x,noise,exact kernel,8,300,239,300,1.0
+2.0x,natural,outside exact kernel,40,300,1231,72,0.24
+2.0x,natural,exact kernel,40,300,5339,300,1.0

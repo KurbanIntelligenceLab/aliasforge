@@ -1,0 +1,6 @@
+score,value,regret,order_acc,regret_lo,regret_hi
+per-item oracle (skyline),0.0581,0.0468,0.6594,-0.0536,-0.0409
+always-stop (best fixed),0.0,0.105,0.2711,-0.1137,-0.0968
+random action,0.0002,0.1047,0.2797,-0.1136,-0.0959
+verifier confidence,0.0155,0.0895,0.3438,-0.0982,-0.0818
+predictive entropy,0.0155,0.0895,0.3438,-0.0982,-0.0818

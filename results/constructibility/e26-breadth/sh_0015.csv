@@ -1,0 +1,2 @@
+processor,processor_class,image_processor_class,resample,policy,n_in,n_out,ratio,dyadic,gs_bound,trial,arm,certified,fields_differ,n_fields,pix_diff,error
+OpenGVLab/InternVL2-8B,,,,,,,,,,,exact_kernel,0,,,,processor dir missing: $DATA_DIR/models/OpenGVLab__InternVL2-8B

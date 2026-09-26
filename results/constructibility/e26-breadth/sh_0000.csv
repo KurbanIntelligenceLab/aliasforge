@@ -1,0 +1,2 @@
+processor,processor_class,image_processor_class,resample,policy,n_in,n_out,ratio,dyadic,gs_bound,trial,arm,certified,fields_differ,n_fields,pix_diff,error
+# id->screen-row: google/siglip-base-patch16-384=siglip-384-,,,,,,,,,,,skipped,0,,,,skipped: comment line

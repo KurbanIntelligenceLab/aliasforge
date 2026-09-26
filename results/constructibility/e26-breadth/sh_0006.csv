@@ -1,0 +1,15 @@
+processor,processor_class,image_processor_class,resample,policy,n_in,n_out,ratio,dyadic,gs_bound,trial,arm,certified,fields_differ,n_fields,pix_diff,error
+Salesforce/blip2-opt-2.7b,Blip2Processor,BlipImageProcessor,3,backend=torchvision;mode=single;fixed:224,448,224,2.0,1,0.75,0,pillow_path,0,pixel_values,3,,processor output differs from Pillow's fixed-point resize
+Salesforce/blip2-opt-2.7b,Blip2Processor,BlipImageProcessor,3,backend=torchvision;mode=single;fixed:224,448,224,2.0,1,0.75,0,exact_kernel,1,none,3,212,
+Salesforce/blip2-opt-2.7b,Blip2Processor,BlipImageProcessor,3,backend=torchvision;mode=single;fixed:224,448,224,2.0,1,0.75,0,negative_control,0,pixel_values,3,212,
+Salesforce/blip2-opt-2.7b,Blip2Processor,BlipImageProcessor,3,backend=torchvision;mode=single;fixed:224,448,224,2.0,1,0.75,1,exact_kernel,1,none,3,212,
+Salesforce/blip2-opt-2.7b,Blip2Processor,BlipImageProcessor,3,backend=torchvision;mode=single;fixed:224,448,224,2.0,1,0.75,1,negative_control,0,pixel_values,3,212,
+Salesforce/blip2-opt-2.7b,Blip2Processor,BlipImageProcessor,3,backend=torchvision;mode=single;fixed:224,448,224,2.0,1,0.75,2,exact_kernel,1,none,3,212,
+Salesforce/blip2-opt-2.7b,Blip2Processor,BlipImageProcessor,3,backend=torchvision;mode=single;fixed:224,448,224,2.0,1,0.75,2,negative_control,0,pixel_values,3,212,
+Salesforce/blip2-opt-2.7b,BlipImageProcessorPil,BlipImageProcessorPil,3,backend=pil;mode=single;fixed:224,448,224,2.0,1,0.75,0,pillow_path,1,none,1,,
+Salesforce/blip2-opt-2.7b,BlipImageProcessorPil,BlipImageProcessorPil,3,backend=pil;mode=single;fixed:224,448,224,2.0,1,0.75,0,exact_kernel,1,none,1,212,
+Salesforce/blip2-opt-2.7b,BlipImageProcessorPil,BlipImageProcessorPil,3,backend=pil;mode=single;fixed:224,448,224,2.0,1,0.75,0,negative_control,0,pixel_values,1,212,
+Salesforce/blip2-opt-2.7b,BlipImageProcessorPil,BlipImageProcessorPil,3,backend=pil;mode=single;fixed:224,448,224,2.0,1,0.75,1,exact_kernel,1,none,1,212,
+Salesforce/blip2-opt-2.7b,BlipImageProcessorPil,BlipImageProcessorPil,3,backend=pil;mode=single;fixed:224,448,224,2.0,1,0.75,1,negative_control,0,pixel_values,1,212,
+Salesforce/blip2-opt-2.7b,BlipImageProcessorPil,BlipImageProcessorPil,3,backend=pil;mode=single;fixed:224,448,224,2.0,1,0.75,2,exact_kernel,1,none,1,212,
+Salesforce/blip2-opt-2.7b,BlipImageProcessorPil,BlipImageProcessorPil,3,backend=pil;mode=single;fixed:224,448,224,2.0,1,0.75,2,negative_control,0,pixel_values,1,212,

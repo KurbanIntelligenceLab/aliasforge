@@ -1,0 +1,11 @@
+model,trial,arm,digests_collide,self_diff,pair_diff,at_floor,pix_diff,fields_differ
+llava-1.5-7b,0,certified,1,0.0,0.0,1,320,none
+llava-1.5-7b,0,control,0,0.0,0.21875,0,320,pixel_values
+llava-1.5-7b,1,certified,1,0.0,0.0,1,320,none
+llava-1.5-7b,1,control,0,0.0,0.21875,0,320,pixel_values
+llava-1.5-7b,2,certified,1,0.0,0.0,1,320,none
+llava-1.5-7b,2,control,0,0.0,0.2265625,0,320,pixel_values
+llava-1.5-7b,3,certified,1,0.0,0.0,1,320,none
+llava-1.5-7b,3,control,0,0.0,0.203125,0,320,pixel_values
+llava-1.5-7b,4,certified,1,0.0,0.0,1,320,none
+llava-1.5-7b,4,control,0,0.0,0.19140625,0,320,pixel_values

@@ -1,0 +1,2 @@
+processor,processor_class,image_processor_class,resample,policy,n_in,n_out,ratio,dyadic,gs_bound,trial,arm,certified,fields_differ,n_fields,pix_diff,error
+openai/clip-vit-large-patch14-336,CLIPTokenizer,CLIPTokenizer,-1,"backend=tokenizers;unrecognized;224?,336?,384?,448?,512?,672?,768?,896?,980?,1024?,1120?,1344?,1456?,1536?,1792?,1960?,2048?",,,,,,0,exact_kernel,0,,,,"geometry not recognized; emitted={""input_ids"": ""(1, 11)"", ""attention_mask"": ""(1, 11)""}"

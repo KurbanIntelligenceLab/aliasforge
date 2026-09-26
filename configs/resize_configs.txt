@@ -1,0 +1,21 @@
+# name,n_in,n_out  -- candidate deployed resizes to screen for constructibility
+qwen2.5-vl-448,896,448
+qwen2.5-vl-224,448,224
+llava-1.5-336,672,336
+llava-1.5-336-4x,1344,336
+clip-224-2x,448,224
+clip-224-4x,896,224
+siglip-384-2x,768,384
+siglip-384-3x,1152,384
+internvl-448-tile,1344,448
+internvl-448-thumb,896,448
+blip2-224-3x,672,224
+fuyu-300-1.5x,450,300
+paligemma-224-2x,448,224
+pixtral-512-2x,1024,512
+idefics2-378-1.5x,567,378
+minicpm-448-2.5x,1120,448
+phi3v-336-2x,672,336
+smolvlm-384-2x,768,384
+molmo-336-6x,2016,336
+cambrian-576-2x,1152,576

@@ -1,0 +1,21 @@
+name: aliasforge
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - pillow
+  - pip
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu126
+      - torch
+      - torchvision
+      - transformers
+      - datasets
+      - sentencepiece
+      - einops
+      - timm

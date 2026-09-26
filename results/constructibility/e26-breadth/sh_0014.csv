@@ -1,0 +1,2 @@
+processor,processor_class,image_processor_class,resample,policy,n_in,n_out,ratio,dyadic,gs_bound,trial,arm,certified,fields_differ,n_fields,pix_diff,error
+llava-hf/llava-v1.6-mistral-7b-hf,,,,,,,,,,,exact_kernel,0,,,,processor dir missing: $DATA_DIR/models/llava-hf__llava-v1.6-mistral-7b-hf

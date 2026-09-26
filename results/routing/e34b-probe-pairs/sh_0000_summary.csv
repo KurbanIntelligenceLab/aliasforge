@@ -1,0 +1,7 @@
+router,features,pairs,acts_on_pairs,act_rate_pairs,nonstop_dominated,natural_act_rate_insample
+ridge,proj,80,0,0.0,80,0.7688
+gbt,proj,80,71,0.8875,44,0.7828
+ridge,enc,80,80,1.0,80,0.7711
+gbt,enc,80,70,0.875,6,0.7797
+ridge,proj+enc,80,6,0.075,80,0.7594
+gbt,proj+enc,80,62,0.775,80,0.8039

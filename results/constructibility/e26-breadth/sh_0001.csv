@@ -1,0 +1,15 @@
+processor,processor_class,image_processor_class,resample,policy,n_in,n_out,ratio,dyadic,gs_bound,trial,arm,certified,fields_differ,n_fields,pix_diff,error
+google/siglip-base-patch16-384,SiglipImageProcessor,SiglipImageProcessor,3,backend=torchvision;mode=single;fixed:384,768,384,2.0,1,0.75,0,pillow_path,0,pixel_values,1,,processor output differs from Pillow's fixed-point resize
+google/siglip-base-patch16-384,SiglipImageProcessor,SiglipImageProcessor,3,backend=torchvision;mode=single;fixed:384,768,384,2.0,1,0.75,0,exact_kernel,1,none,1,368,
+google/siglip-base-patch16-384,SiglipImageProcessor,SiglipImageProcessor,3,backend=torchvision;mode=single;fixed:384,768,384,2.0,1,0.75,0,negative_control,0,pixel_values,1,368,
+google/siglip-base-patch16-384,SiglipImageProcessor,SiglipImageProcessor,3,backend=torchvision;mode=single;fixed:384,768,384,2.0,1,0.75,1,exact_kernel,1,none,1,368,
+google/siglip-base-patch16-384,SiglipImageProcessor,SiglipImageProcessor,3,backend=torchvision;mode=single;fixed:384,768,384,2.0,1,0.75,1,negative_control,0,pixel_values,1,368,
+google/siglip-base-patch16-384,SiglipImageProcessor,SiglipImageProcessor,3,backend=torchvision;mode=single;fixed:384,768,384,2.0,1,0.75,2,exact_kernel,1,none,1,368,
+google/siglip-base-patch16-384,SiglipImageProcessor,SiglipImageProcessor,3,backend=torchvision;mode=single;fixed:384,768,384,2.0,1,0.75,2,negative_control,0,pixel_values,1,368,
+google/siglip-base-patch16-384,SiglipImageProcessorPil,SiglipImageProcessorPil,3,backend=pil;mode=single;fixed:384,768,384,2.0,1,0.75,0,pillow_path,1,none,1,,
+google/siglip-base-patch16-384,SiglipImageProcessorPil,SiglipImageProcessorPil,3,backend=pil;mode=single;fixed:384,768,384,2.0,1,0.75,0,exact_kernel,1,none,1,368,
+google/siglip-base-patch16-384,SiglipImageProcessorPil,SiglipImageProcessorPil,3,backend=pil;mode=single;fixed:384,768,384,2.0,1,0.75,0,negative_control,0,pixel_values,1,368,
+google/siglip-base-patch16-384,SiglipImageProcessorPil,SiglipImageProcessorPil,3,backend=pil;mode=single;fixed:384,768,384,2.0,1,0.75,1,exact_kernel,1,none,1,368,
+google/siglip-base-patch16-384,SiglipImageProcessorPil,SiglipImageProcessorPil,3,backend=pil;mode=single;fixed:384,768,384,2.0,1,0.75,1,negative_control,0,pixel_values,1,368,
+google/siglip-base-patch16-384,SiglipImageProcessorPil,SiglipImageProcessorPil,3,backend=pil;mode=single;fixed:384,768,384,2.0,1,0.75,2,exact_kernel,1,none,1,368,
+google/siglip-base-patch16-384,SiglipImageProcessorPil,SiglipImageProcessorPil,3,backend=pil;mode=single;fixed:384,768,384,2.0,1,0.75,2,negative_control,0,pixel_values,1,368,
