@@ -18,7 +18,7 @@ appendix numbers refer to the arXiv version of the paper.
 | [`constructibility/e10b-screen`](constructibility/e10b-screen) | [`e10b_screen.sh`](../experiments/constructibility/e10b_screen.sh) | Table A4, the screen of 20 declared configurations |
 | [`constructibility/e26-breadth`](constructibility/e26-breadth) | [`e26_breadth.sh`](../experiments/constructibility/e26_breadth.sh) | Table A5, breadth across deployed processors |
 | [`constructibility/e33-nearkernel`](constructibility/e33-nearkernel) | [`e33_nearkernel.sh`](../experiments/constructibility/e33_nearkernel.sh) | Appendix A, remark on output quantization: supporting counts of near-kernel collisions |
-| [`constructibility/e27-kernelswap`](constructibility/e27-kernelswap) | [`e27_kernelswap.sh`](../experiments/constructibility/e27_kernelswap.sh) | Ethics statement: supporting records for the resampling mitigation (Lanczos kernel swap) |
+| [`constructibility/e27-kernelswap`](constructibility/e27-kernelswap) | [`e27_kernelswap.sh`](../experiments/constructibility/e27_kernelswap.sh) | Not in the paper: the Lanczos kernel swap behind the mitigation under Responsible use in the README |
 | [`natural_images/e16-natural`](natural_images/e16-natural) | [`e16_natural.sh`](../experiments/natural_images/e16_natural.sh) | Appendix D, solid-band construction on natural images |
 | [`natural_images/e18-freeplace`](natural_images/e18-freeplace) | [`e18_freeplace.sh`](../experiments/natural_images/e18_freeplace.sh) | Appendix D, free placement on natural images |
 | [`natural_images/e23-legible`](natural_images/e23-legible) | [`e23_legible.sh`](../experiments/natural_images/e23_legible.sh) | Figure 2 and Appendix D, legibility-constrained placement |

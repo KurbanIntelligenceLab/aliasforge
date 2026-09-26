@@ -155,9 +155,11 @@ Certified aliases are a measurement instrument, but the same construction could 
 moderation or safety verifiers. Image-scaling attacks and their defenses are already public, and
 aliases for a known preprocessing pipeline are inexpensive to regenerate, so we release the
 constructor together with tools for defenders. `verify/verify_certificate.py` reports whether a
-resampling filter and resize ratio admit realizable collisions, and the paper documents the
-susceptible configurations and mitigations involving the resampling filter, the input resolution
-and verification of the preprocessed input.
+resampling filter and resize ratio admit realizable collisions. Switching the filter is one
+mitigation: Lanczos resampling admits no realizable interior carrier at 2&times; (Table A1),
+and in `results/constructibility/e27-kernelswap` the swap from bicubic breaks all four tested pairs
+while changing the verifier's mean correctness on the 1,280 natural items by only +0.0002 (95%
+interval [&minus;0.0007, +0.0011]).
 
 ## Citation
 
