@@ -12,7 +12,6 @@
 [![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.14-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Transformers](https://img.shields.io/badge/Transformers-5.16-FFD21E?logo=huggingface&logoColor=black)](https://github.com/huggingface/transformers)
-[![Certificate check](https://img.shields.io/badge/certificate%20check-CPU%20only-2E7D32)](#quick-start)
 
 </div>
 
