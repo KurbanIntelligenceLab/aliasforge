@@ -3,7 +3,7 @@
 The per-item records behind every number in the paper, grouped like `experiments/`. Shards are CSV
 files, one per task. The two router-feature experiments, `routing/e34-strong-probe` and
 `routing/e35-signal-zqr`, store their features as NumPy archives (`.npz`). Table, theorem and
-appendix numbers refer to the arXiv version of the paper.
+appendix numbers refer to [arXiv v1](https://arxiv.org/abs/2609.33003v1) of the paper.
 
 | Records | Script | Paper |
 |---|---|---|

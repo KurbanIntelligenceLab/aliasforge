@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite it as below."
-title: "Certified Interface Aliases: Exact Collisions in Vision-Language Preprocessing, and When They Exist"
+message: "If you use this code, please cite the paper below."
+title: "AliasForge"
 abstract: "AliasForge constructs image pairs with opposite correct answers that reach a vision-language model as bit-identical tensors, and certifies them. Code, per-item records and analysis scripts for the paper."
 type: software
 authors:
@@ -23,3 +23,20 @@ keywords:
   - integer lattices
   - verifiers
   - test-time compute
+preferred-citation:
+  type: article
+  title: "Certified Interface Aliases: Exact Collisions in Vision-Language Preprocessing, and When They Exist"
+  authors:
+    - family-names: Cakiroglu
+      given-names: Mert Onur
+    - family-names: Buxton
+      given-names: Elham
+    - family-names: Dalkilic
+      given-names: Mehmet
+    - family-names: Kurban
+      given-names: Hasan
+      orcid: "https://orcid.org/0000-0003-3142-2866"
+  journal: "arXiv preprint arXiv:2609.33003"
+  year: 2026
+  url: "https://arxiv.org/abs/2609.33003"
+  doi: "10.48550/arXiv.2609.33003"

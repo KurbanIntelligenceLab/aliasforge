@@ -8,7 +8,7 @@
 
 <sup>1</sup>Indiana University Bloomington &emsp; <sup>2</sup>University of Illinois Springfield &emsp; <sup>3</sup>Hamad Bin Khalifa University
 
-![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-B31B1B?logo=arxiv&logoColor=white)
+[![arXiv](https://img.shields.io/badge/arXiv-2609.33003-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.33003)
 [![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.14-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Transformers](https://img.shields.io/badge/Transformers-5.16-FFD21E?logo=huggingface&logoColor=black)](https://github.com/huggingface/transformers)
@@ -165,10 +165,12 @@ interval [&minus;0.0007, +0.0011]).
 
 ```bibtex
 @misc{cakiroglu2026certified,
-  title        = {Certified Interface Aliases: Exact Collisions in Vision--Language Preprocessing, and When They Exist},
-  author       = {Cakiroglu, Mert Onur and Buxton, Elham and Dalkilic, Mehmet and Kurban, Hasan},
-  year         = {2026},
-  howpublished = {\url{https://github.com/KurbanIntelligenceLab/aliasforge}},
-  note         = {GitHub repository}
+  title         = {Certified Interface Aliases: Exact Collisions in Vision-Language Preprocessing, and When They Exist},
+  author        = {Mert Onur Cakiroglu and Elham Buxton and Mehmet Dalkilic and Hasan Kurban},
+  year          = {2026},
+  eprint        = {2609.33003},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2609.33003}
 }
 ```
